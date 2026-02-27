@@ -5,19 +5,20 @@ draft = false
 tags = ["projects", "github"]
 categories = ["portfolio"]
 +++
+## Мои проекты на GitHub
 
-Here are some of my GitHub projects:
+### 1. Веб-портфолио
+Персональный сайт, созданный с помощью Hugo и развернутый через GitHub Actions.
 
-### 1. Web Portfolio
-A personal website built with Hugo and deployed using GitHub Actions.
+### 2. Мини-игра на Unity
+Небольшой прототип футбольной игры на Unity с использованием C#.
 
-### 2. Unity Mini Game
-A small football game prototype built in Unity using C#.
+### 3. Структуры данных
+Реализация связного списка на C# с удалением дубликатов.
 
-### 3. Data Structures Project
-Implementation of custom linked list in C# with duplicate removal logic.
+### 4. Оптимизация логистики
+Курсовая работа по оптимизации логистических процессов в e-commerce.
 
-### 4. Logistic Optimization Coursework
-Academic project focused on optimization of logistics processes in e-commerce.
+---
 
-All projects are available on my GitHub profile.
+👉 Все проекты доступны в моем профиле на GitHub.

@@ -3,15 +3,14 @@ title = "About Me"
 draft = false
 +++
 
-## About Me
+## Обо мне
 
-My name is Yarik. I am a web development student interested in frontend development, static site generators, and modern deployment workflows.
+Меня зовут Ярик. Я студент, изучаю веб-разработку. Интересуюсь фронтендом, генераторами статических сайтов и современными подходами к развертыванию проектов.
 
-I enjoy working with:
+В работе использую:
 
-- Hugo
-- GitHub Actions
-- UI design
-- Game development with Unity
-
-This website was created as part of my client-side web development lab work.
+Hugo — для сборки статических сайтов
+GitHub Actions — для автоматизации деплоя
+Инструменты UI-дизайна — для создания интерфейсов
+Unity — для разработки игр (для души)
+Этот сайт сделал в рамках лабораторной работы по клиентской веб-разработке.

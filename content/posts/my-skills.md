@@ -6,22 +6,22 @@ tags = ["skills", "development"]
 categories = ["blog"]
 +++
 
-## Technical Skills
+## Навыки
 
-I have experience in:
-
-- HTML & CSS
+### Технические навыки
+- HTML и CSS
 - JavaScript
-- Git & GitHub
-- Hugo static site generator
+- Git и GitHub
+- Генератор статических сайтов Hugo
 - Unity (C#)
-- Basic UI/UX design
+- Основы UI/UX-дизайна
 
-## Soft Skills
+### Личностные качества
+- Решение проблем
+- Работа в команде
+- Быстрое обучение
+- Организация проектов
 
-- Problem solving
-- Team collaboration
-- Fast learning
-- Project organization
+---
 
-I am continuously improving my web development skills and working on personal projects.
+Постоянно развиваю свои навыки в веб-разработке и работаю над личными проектами.
