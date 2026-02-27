@@ -3,7 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+title = "Client Lab 2"
+baseURL = "https://pistaha.github.io/client-lab2/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

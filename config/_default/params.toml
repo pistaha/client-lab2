@@ -180,3 +180,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
+
+
+[author]
+  name = "Yarik"
+  headline = "Client Lab 2"
+  bio = "My Hugo project"
