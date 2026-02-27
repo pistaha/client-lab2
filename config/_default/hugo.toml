@@ -2,7 +2,7 @@
 theme = "blowfish"
 title = "Главная"
 baseURL = "https://pistaha.github.io/client-lab2/"
-defaultContentLanguage = "ru"
+
 
 enableRobotsTXT = true
 summaryLength = 0
