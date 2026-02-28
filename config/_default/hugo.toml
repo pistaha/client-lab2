@@ -1,8 +1,10 @@
 # -- Site Configuration --
 theme = "blowfish"
-title = "Главная"
 baseURL = "https://pistaha.github.io/client-lab2/"
-
+# Язык сайта
+defaultContentLanguage = "ru"
+defaultContentLanguageInSubdir = false
+languageCode = "ru"
 
 enableRobotsTXT = true
 summaryLength = 0
