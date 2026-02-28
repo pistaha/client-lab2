@@ -10,3 +10,8 @@
   name = "Обо мне"
   pageRef = "about"
   weight = 20
+  
+[[main]]
+  name = "Главная"
+  pageRef = "/"
+  weight = 1
