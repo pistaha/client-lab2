@@ -4,7 +4,7 @@ disabled = false
 languageCode = "ru"
 languageName = "Русский"
 weight = 1
-title = "Client Lab 2"
+title = "Главная"
 
 [params]
   displayName = "RU"
