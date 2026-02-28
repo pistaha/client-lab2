@@ -108,7 +108,7 @@ http://localhost:1313
 
 ### 6. Загрузка проекта на GitHub
 
-Репозиторий:
+Репозиторий: https://github.com/pistaha/client-lab2/tree/main
 
 
 Основные команды:
