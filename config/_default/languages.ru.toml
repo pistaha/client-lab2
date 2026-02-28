@@ -1,16 +1,17 @@
 
+[ru]
+  languageCode = "ru"
+  languageName = "Русский"
+  weight = 1
+  title = "Главная"
 
-disabled = false
-languageCode = "ru"
-languageName = "Русский"
-weight = 1
-title = "Главная"
-
-[params]
-  displayName = "RU"
-  isoCode = "ru"
-  rtl = false
-  description = "Мой сайт на Hugo"
+  [ru.params]
+    displayName = "RU"
+    isoCode = "ru"
+    rtl = false
+    dateFormat = "02.01.2006"
+    description = "Сайт на Hugo"
+    
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
